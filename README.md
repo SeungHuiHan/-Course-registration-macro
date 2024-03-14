@@ -11,7 +11,9 @@
 - [아쉬운 점](#아쉬운-점)
 
 ## 🎬실행영상
- 당시 동영상으로만 찍어놓았기 떄문에 현실성 가득한 촬영영상입니다.
+ 당시 동영상으로만 찍어놓았기 떄문에 현장감 가득한 촬영영상입니다.
+ ![-Clipchamp9-ezgif com-video-to-gif-converter (2)](https://github.com/SeungHuiHan/Kyon-ggi-University-Course-registration-macro/assets/98226400/2fed0b61-9f0a-4168-97d6-39de032afdaf)
+
 
  ## 🔮소개
  - 로그인 후에 소망가방List에 담겨있는 과목 '수강신청'을 무한 클릭합니다.
